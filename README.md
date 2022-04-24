@@ -10,7 +10,9 @@ Use of git command to push code to github
 The project use the git command to push the biksehare code to github
 
 ### Files used
-Bikeshare.py
+Chicago.csv
+Washington.csv
+New_york_city.csv
 
 ### Credits
 https://github.com/udacity/pdsnd_github/network/members
