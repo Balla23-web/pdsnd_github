@@ -7,7 +7,7 @@
 Use of git command to push code to github
 
 ### Description
-The project use the git command to push the biksehare code to github
+The project use the git command to push the bikeshare code to github
 
 ### Files used
 Chicago.csv
