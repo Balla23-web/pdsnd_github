@@ -1,13 +1,13 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-22/04/2022
+22th April; 2022
 
 ### Project Title
-Git command Project
+Use of git command to push code to github
 
 ### Description
-This involve used of Github 
+The project use the git command to push the biksehare code to github
 
 ### Files used
 Bikeshare.py
